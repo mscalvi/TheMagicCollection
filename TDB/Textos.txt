@@ -1,0 +1,12 @@
+As Aventuras são feitiços que criam fichas de Eventos, que são:
+	-2 Membros: janta
+	-4 membros: mesão
+	-6 membros: mansions
+	-8 membros: vôlei
+	-10 membros: churrasco
+	-15 membros: amigo secreto
+	-20 membros: aniversário
+	-25 membros: casamento
+Os Eventos são artefatos indestrutíveis que trigam sempre que um Membro de número X ou maior entra em campo.
+
+Os Membros possuem habilidades do tipo ETB e habilidades de blink.
