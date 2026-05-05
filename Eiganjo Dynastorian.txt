@@ -1,16 +1,3 @@
--Vial
-Lorehold, the Historian
-Decorum Dissertation
-Defacing Duskmage
-Dirgur Focusmage
-Inkshield
-Monologue Tax
-Lindblum, Industrial Regency // Mage Siege
-
--Jhoira
-Mana Sculpt
-Improvisation Capstone
-
 -Zimone
 Emeritus of Abundance
 Grave Researcher
@@ -36,13 +23,3 @@ Monologue Tax
 Staff of the Storyteller
 Idol of Oblivion
 Nurgle's Rot
-
--Elfos
-Emeritus of Abundance
-
--Tayam
-Wildgrowth Archaic
-Benevolent Hydra
-
--Coleção
-Blech, Loafing Pest
