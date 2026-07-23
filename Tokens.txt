@@ -1,0 +1,21 @@
+Tokens
+
+-4cRash
+1 Coruscation Mage
+1 Wizard 0/1 B Ping
+
+-Akiri
+1 Rebelde 2/2 R
+1 Phyrexian Germ 0/0 B
+
+-Alela
+1 Angel 4/4 Fly W
+
+-Arcades
+2 Wall 0/3 Defender W
+1 Wall 0/4 Defender Fly W
+
+
+-Yorion
+1 Rabbit 1/1 W
+
