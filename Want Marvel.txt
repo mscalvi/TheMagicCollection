@@ -13,52 +13,19 @@ Forest 2
 
 -Decks
 Cosmic Cube
-Mole Man, Moloid Master
-Namor the Sub-Mariner
+
 Thor, God of Thunder
 2 Shang-Chi, Master of Kung Fu
-2 Arc Reactor
 Shuri, Wakandan Inventor
 The Unbeatable Squirrel Girl
-
-// Ares, God of War
-// Construct a Cosmic Cube
-// Scientist Supreme of A.I.M.
-// Baxter Building
-// Fisk Tower
-// Surveillance Room
-// Mister Hyde, Monster Within
-// Loki, God of Mischief
-// Attuma, Atlantean Warlord
-// Mole Man, Moloid Master
-// Agent 13, Sharon Carter
-// Captain America's Shield
-// Hawkeye's Bow
-// The Mind Stone
-// Subterranean Cavern
 
 -Guardar
 Ultron, Artificial Malevolence
 Misty Knight, Hero for Hire
 The Astonishing Ant-Man
-// Ant-Man, Colony Commander
-// Kid Loki
-// The Mighty Thor, Jane Foster
-// Wiccan, Rising Magician
-
 
 ///////////////// Marvel Commander
 -Decks
-// Avenge				
-// Kang Dynasty			
-// Archnemesis			
-// The Frightful Four		
-// Fight for the Throne		
-// Nova Flame
-// Black Market Connections
-// Shuri's Fabricator
-// Puppet Master, String Puller
-
 Nico Minoru, Runaway
 Tippy-Toe, Terrific Partner
 Quantum Entanglement
@@ -70,12 +37,7 @@ Origin of Thor
 Spider-Man, New Champion
 Loki, Lord of Misrule
 
-// Kingpin, Wilson Fisk
-
 -Guardar
 Peggy Carter, Secret Agent
 MACH-1, Swooping Scoundrel
 Daily Bugle Newspaper
-// Kang Prime
-// Namor, Athlantean King
-// Alicia Msters, Skilled Sculptor
